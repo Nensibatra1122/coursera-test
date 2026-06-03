@@ -1,2 +1,2 @@
-# coursera-test
+# Coursera-Test-WEB_Development
 Coursera test repository
